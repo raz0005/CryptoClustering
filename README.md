@@ -15,3 +15,7 @@ Warnings
 ### Conclusion
 
 Applying PCA for dimensionality reduction resulted in more compact clusters, demonstrating that a reduced set of features can effectively represent the data for clustering. This method simplifies the model while preserving essential information.
+
+### Resources
+
+Class materials, Lectures, Online research (https://holoviz.org/tutorial/Composing_Plots.html), Collaboration with classmates
